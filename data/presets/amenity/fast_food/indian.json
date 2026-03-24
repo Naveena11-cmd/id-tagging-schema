@@ -1,5 +1,5 @@
 {
-  "icon":"maki-resturant",
+  "icon":"fast-food",
   "geometry":[
     "point",
     "area"
@@ -17,8 +17,12 @@
   "{amenity/fast_food}"],
 
   "tags":{
-    "amenity":"fast_food".
+    "amenity":"fast_food",
     "cuisine":"indian"
 },
+    "reference": {
+        "key": "cuisine",
+        "value": "indian"
+    },
   "name":"Indian Fast Food"
 }
