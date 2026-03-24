@@ -1,0 +1,24 @@
+{
+  "icon":"maki-resturant",
+  "geometry":[
+    "point",
+    "area"
+  ],
+  "terms":[
+    "chaat",
+    "vadapav",
+    "pav bhaji",
+    "lassi",
+    "pani puri"
+  ],
+  "fields":[
+    "{amenity/fast_food}"],
+  "moreFields":[
+  "{amenity/fast_food}"],
+
+  "tags":{
+    "amenity":"fast_food".
+    "cuisine":"indian"
+},
+  "name":"Indian Fast Food"
+}
