@@ -5,17 +5,15 @@
         "area"
     ],
     "terms": [
-        "bar",
-        "breakfast",
-        "curry",
-        "dine",
-        "dining",
-        "dinner",
-        "drive-in",
-        "eat",
-        "grill",
-        "lunch",
-        "table"
+        "biryani",
+        "butter chicken",
+        "chole bhature",
+        "dal makhni",
+        "dosa",
+        "garlic naan",
+        "idli",
+        "paneer tikka",
+        "thali",
     ],
     "fields": [
         "{amenity/restaurant}"
