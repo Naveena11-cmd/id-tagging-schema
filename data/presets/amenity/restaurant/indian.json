@@ -6,16 +6,24 @@
     ],
     "terms": [
         "bar",
+        "biryani",
         "breakfast",
+        "butter chicken",
         "curry",
+        "dal makhni",
+        "dosa",
         "dine",
         "dining",
         "dinner",
         "drive-in",
         "eat",
+        "garlic naan",
         "grill",
         "lunch",
-        "table"
+        "panner tikka",
+        "roti",
+        "table",
+        "thali",
     ],
     "fields": [
         "{amenity/restaurant}"
