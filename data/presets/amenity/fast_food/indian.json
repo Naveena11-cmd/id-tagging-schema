@@ -1,28 +1,39 @@
 {
-  "icon":"fast-food",
-  "geometry":[
-    "point",
-    "area"
-  ],
-  "terms":[
-    "chaat",
-    "vadapav",
-    "pav bhaji",
-    "lassi",
-    "pani puri"
-  ],
-  "fields":[
-    "{amenity/fast_food}"],
-  "moreFields":[
-  "{amenity/fast_food}"],
-
-  "tags":{
-    "amenity":"fast_food",
-    "cuisine":"indian"
-},
+    "icon": "fast-food",
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": [
+        "breakfast",
+        "chaat",
+        "dine",
+        "dining",
+        "dinner",
+        "drive-in",
+        "eat",
+        "lassi",
+        "lunch",
+        "momos",
+        "pani puri",
+        "pav bhaji",
+        "samosa",
+        "table",
+        "vada pav"
+    ],
+    "fields": [
+        "{amenity/fast_food}"
+    ],
+    "moreFields": [
+        "{amenity/fast_food}"
+    ],
+    "tags": {
+        "amenity": "fast_food",
+        "cuisine": "indian"
+    },
     "reference": {
         "key": "cuisine",
         "value": "indian"
     },
-  "name":"Indian Fast Food"
+    "name": "Indian Fast Food"
 }
