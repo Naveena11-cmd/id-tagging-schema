@@ -20,10 +20,10 @@
         "garlic naan",
         "grill",
         "lunch",
-        "panner tikka",
+        "paneer tikka",
         "roti",
         "table",
-        "thali",
+        "thali"
     ],
     "fields": [
         "{amenity/restaurant}"
